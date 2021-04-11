@@ -1,7 +1,3 @@
-# Parallel_Processing
-
-
-
 ## HazardPointers
 
 A memory reclamation mechanism for lock-free objects.
@@ -34,6 +30,6 @@ This version is implemented according to the design and code in the paper [2].
 
 ## Reference
 
-[1] Timothy L. Harris "**A Pragmatic Implementation of Non-Blocking Linked-Lists**". 2001. 
+
 
 [2] Andrei Alexandrescu, Maged Michael  "**Lock-Free Data Structures with Hazard Pointers**". 2004.
